@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "model": "Land Rover Defender ",
+    "model": "Land Rover Defender",
     "capacity": 5,
     "photos": [
       "https://www.landrover.com/content/dam/lrdx/global/l663/23my/int/L663_23MY_059_GLHD_110_V8.jpg.res/JLRHASH1FCBD04D437372B95A6426D8A6DFF99FCEA8F7AD/L663_23MY_059_GLHD_110_V8.jpg",
@@ -31,7 +31,7 @@
     "dailyPrice": 20000,
     "owner": {
       "name": "Peter Ndegwa",
-      "phone": "0756342100"
+      "phone": "+254756342100"
     },
     "vehicleFeedback": [
       "A rugged and reliable companion.",
@@ -51,7 +51,7 @@
     "dailyPrice": 18963,
     "owner": {
       "name": "Ann Njeri",
-      "phone": "0712786590"
+      "phone": "+254712786590"
     },
     "vehicleFeedback": [
       "An iconic vehicle for adventurous trips.",
@@ -71,7 +71,7 @@
     "dailyPrice": 11730,
     "owner": {
       "name": "Helen Wambui",
-      "phone": "0734560921"
+      "phone": "+254734560921"
     },
     "vehicleFeedback": [
       "Great family SUV with ample space.",
@@ -88,10 +88,10 @@
       "https://www.motortrend.com/uploads/f/248115422.jpg?fit=around%7C875:492",
       "https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Nissan-Patrol/5121/front-left-side-47.jpg?tr=w-456"
     ],
-    "dailyPrice": 197613,
+    "dailyPrice": 97613,
     "owner": {
       "name": "Abdi hassan",
-      "phone": "0720789800"
+      "phone": "+254720789800"
     },
     "vehicleFeedback": [
       "Powerful engine and excellent towing capacity.",
@@ -111,7 +111,7 @@
     "dailyPrice": 81644,
     "owner": {
       "name": "Sophia Davis",
-      "phone": "0710245678"
+      "phone": "+254710245678"
     },
     "vehicleFeedback": [
       "A luxurious and capable off-roader.",
@@ -131,7 +131,7 @@
     "dailyPrice": 81644,
     "owner": {
       "name": "Jane Ngoiri",
-      "phone": "0712345687"
+      "phone": "+254712345687"
     },
     "vehicleFeedback": [
       "A luxurious and capable off-roader.",
